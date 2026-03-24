@@ -1,0 +1,21 @@
+true_class,predicted_class,count,true_id,pred_id
+laptop,notebook,16,620,681
+projectile,missile,14,744,657
+maillot,maillot,12,638,639
+tub,bathtub,11,876,435
+mushroom,agaric,10,947,992
+academic gown,mortarboard,10,400,667
+ram,bighorn,10,348,349
+miniature poodle,toy poodle,9,266,265
+miniature schnauzer,standard schnauzer,9,196,198
+breastplate,cuirass,9,461,524
+ear,corn,8,998,987
+maillot,maillot,8,639,638
+Cardigan,Pembroke,8,264,263
+wolf spider,barn spider,8,77,73
+table lamp,lampshade,8,846,619
+green snake,green mamba,7,55,64
+garden spider,black and gold garden spider,7,74,72
+ox,oxcart,7,345,690
+chain,necklace,7,488,679
+corn,ear,7,987,998

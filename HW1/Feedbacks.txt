@@ -1,0 +1,21 @@
+
+Sep 17 at 10:29am
+Nice to see your wonderful latex based report.
+
+Good job on selection of datasets that are in three highly different sizes as required.
+
+your extracted metrics are good.
+
+The deliverables like top k words, runtime by dataset size and split size were clearly visualized.
+
+wonderful to see that you have implemented K-means clustering using scikit-learn with both full and minibatch k-means. Comprehensive analysis and visualization of k-means has been given.
+
+overall excellent report.
+- Ramanathan Swaminathan
+
+
+
+
+Sep 16 at 7:42pm
+I really enjoyed going through your notebook! You did a great job setting up the K-Means experiments in a clear and organized way. I liked how you scaled the dataset sizes and dimensions—it really shows that you were thinking about both performance and practicality in your experiments. The comparison between full KMeans and MiniBatchKMeans was well thought out, and I loved that you included many initialization strategies. Your plots made the results much easier to interpret, and it was nice to see both runtime and inertia shown side by side. Overall, the code was clean and easy to follow. Fantastic work with good code quality and well structured code.
+- Anonymous User
